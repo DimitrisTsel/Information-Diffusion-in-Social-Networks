@@ -2,6 +2,8 @@
 
 This Python script is designed to analyze the diffusion of information in social networks using network analysis techniques and the Independent Cascade Model. Below is a detailed breakdown of each section in the script:
 
+This script provides a comprehensive analysis of information diffusion in social networks and can be customized and extended as needed for specific research or analysis purposes.
+
 ## 1. Importing Libraries
 - The script starts by importing necessary libraries such as NetworkX for network analysis, Pandas for data manipulation, Matplotlib for data visualization, and ndlib for implementing the Independent Cascade Model.
 
@@ -42,5 +44,3 @@ This Python script is designed to analyze the diffusion of information in social
 2. Modify the file path in the script to point to your social network dataset.
 3. Run the script in a Python environment.
 4. Review the output and plots to analyze the diffusion of information in the network based on different seed selection strategies.
-
-This script provides a comprehensive analysis of information diffusion in social networks and can be customized and extended as needed for specific research or analysis purposes.
